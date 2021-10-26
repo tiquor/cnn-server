@@ -1,0 +1,22 @@
+# npm modules 
+node_modules
+
+# compile proyect
+dist
+build
+
+# enviroments variables
+.env
+.env.local
+.env.production
+
+# docker
+docker-compose.override.yml
+
+# config files
+**/.vscode
+**/.idea
+**/.vim
+**/.vs
+**/*.xml
+**/*.iml
